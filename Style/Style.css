@@ -1,0 +1,9 @@
+body{
+	background: linear-gradient(white, rgb(165, 170, 165), white) fixed no-repeat;
+}
+p{
+	z-index: 1;	
+}
+h1{
+	z-index: 1;
+}
